@@ -2,7 +2,7 @@
   <img src="https://" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Brandon Delaleu</h1>
-<h3 align="center">A HTML Email Developer from Montreal</h3>
+<h3 align="center">A HTML Email Developer</h3>
 <h4 align="center">Hi my name is Brandon Delaleu a web developer based out of Montreal. I've worked on web development for 3 years. </h4>
 
 <hr>
