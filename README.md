@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="https://" width="100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Brandon Delaleu</h1>
+<h1 align="center">Hi, I'm Brandon Delaleu</h1>
 <h3 align="center">A HTML Email Developer</h3>
 <h4 align="center">Hi my name is Brandon Delaleu a web developer based out of Montreal. I've worked on web development for 3 years. </h4>
 
