@@ -2,7 +2,7 @@
   <img src="https://" width="100%"/>
 </div>
 <h1 align="center">Hi, I'm Brandon Delaleu</h1>
-<h3 align="center">A HTML Email Developer</h3>
+<h3 align="center">A Web Developer</h3>
 <h4 align="center">Hi my name is Brandon Delaleu a web developer based out of Montreal. I've worked on web development for 3 years. </h4>
 
 <hr>
@@ -17,7 +17,7 @@
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
-<!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/> -->
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
 <!--                      . -->
 <!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/> -->
